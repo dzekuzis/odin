@@ -1,0 +1,1 @@
+Just a simple recipe page with simpe html
